@@ -1,0 +1,5 @@
+{
+  "name": "AdaptiveDrive Playlist",
+  "description": "An adaptive music player simulation that adjusts playlists based on speed, time of day, and weather conditions.",
+  "requestFramePermissions": []
+}
